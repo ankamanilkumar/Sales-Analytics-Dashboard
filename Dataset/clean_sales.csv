@@ -1,0 +1,101 @@
+Order ID,Order Date,Customer Name,Category,Sales,Profit,Month,Year,Quarter,Day
+ORD1001,2025-01-01,Rahul Sharma,Electronics,500,100,January,2025,1,Wednesday
+ORD1002,2025-01-02,Priya Reddy,Furniture,573,115,January,2025,1,Thursday
+ORD1003,2025-01-03,Arjun Kumar,Office Supplies,646,129,January,2025,1,Friday
+ORD1004,2025-01-04,Sneha Patel,Clothing,719,144,January,2025,1,Saturday
+ORD1005,2025-01-05,Vikram Singh,Grocery,792,158,January,2025,1,Sunday
+ORD1006,2025-01-06,Neha Verma,Sports,865,173,January,2025,1,Monday
+ORD1007,2025-01-07,Kiran Rao,Books,938,188,January,2025,1,Tuesday
+ORD1008,2025-01-08,Ayesha Khan,Electronics,1011,202,January,2025,1,Wednesday
+ORD1009,2025-01-09,Rohan Gupta,Furniture,1084,217,January,2025,1,Thursday
+ORD1010,2025-01-10,Meera Iyer,Office Supplies,1157,231,January,2025,1,Friday
+ORD1011,2025-01-11,Rahul Sharma,Clothing,1230,246,January,2025,1,Saturday
+ORD1012,2025-01-12,Priya Reddy,Grocery,1303,261,January,2025,1,Sunday
+ORD1013,2025-01-13,Arjun Kumar,Sports,1376,275,January,2025,1,Monday
+ORD1014,2025-01-14,Sneha Patel,Books,1449,290,January,2025,1,Tuesday
+ORD1015,2025-01-15,Vikram Singh,Electronics,1522,304,January,2025,1,Wednesday
+ORD1016,2025-01-16,Neha Verma,Furniture,1595,319,January,2025,1,Thursday
+ORD1017,2025-01-17,Kiran Rao,Office Supplies,1668,334,January,2025,1,Friday
+ORD1018,2025-01-18,Ayesha Khan,Clothing,1741,348,January,2025,1,Saturday
+ORD1019,2025-01-19,Rohan Gupta,Grocery,1814,363,January,2025,1,Sunday
+ORD1020,2025-01-20,Meera Iyer,Sports,1887,377,January,2025,1,Monday
+ORD1021,2025-01-21,Rahul Sharma,Books,1960,392,January,2025,1,Tuesday
+ORD1022,2025-01-22,Priya Reddy,Electronics,2033,407,January,2025,1,Wednesday
+ORD1023,2025-01-23,Arjun Kumar,Furniture,2106,421,January,2025,1,Thursday
+ORD1024,2025-01-24,Sneha Patel,Office Supplies,2179,436,January,2025,1,Friday
+ORD1025,2025-01-25,Vikram Singh,Clothing,2252,450,January,2025,1,Saturday
+ORD1026,2025-01-26,Neha Verma,Grocery,2325,465,January,2025,1,Sunday
+ORD1027,2025-01-27,Kiran Rao,Sports,2398,480,January,2025,1,Monday
+ORD1028,2025-01-28,Ayesha Khan,Books,2471,494,January,2025,1,Tuesday
+ORD1029,2025-01-29,Rohan Gupta,Electronics,2544,509,January,2025,1,Wednesday
+ORD1030,2025-01-30,Meera Iyer,Furniture,2617,523,January,2025,1,Thursday
+ORD1031,2025-01-31,Rahul Sharma,Office Supplies,2690,538,January,2025,1,Friday
+ORD1032,2025-02-01,Priya Reddy,Clothing,2763,553,February,2025,1,Saturday
+ORD1033,2025-02-02,Arjun Kumar,Grocery,2836,567,February,2025,1,Sunday
+ORD1034,2025-02-03,Sneha Patel,Sports,2909,582,February,2025,1,Monday
+ORD1035,2025-02-04,Vikram Singh,Books,2982,596,February,2025,1,Tuesday
+ORD1036,2025-02-05,Neha Verma,Electronics,3055,611,February,2025,1,Wednesday
+ORD1037,2025-02-06,Kiran Rao,Furniture,3128,626,February,2025,1,Thursday
+ORD1038,2025-02-07,Ayesha Khan,Office Supplies,3201,640,February,2025,1,Friday
+ORD1039,2025-02-08,Rohan Gupta,Clothing,3274,655,February,2025,1,Saturday
+ORD1040,2025-02-09,Meera Iyer,Grocery,3347,669,February,2025,1,Sunday
+ORD1041,2025-02-10,Rahul Sharma,Sports,3420,684,February,2025,1,Monday
+ORD1042,2025-02-11,Priya Reddy,Books,3493,699,February,2025,1,Tuesday
+ORD1043,2025-02-12,Arjun Kumar,Electronics,3566,713,February,2025,1,Wednesday
+ORD1044,2025-02-13,Sneha Patel,Furniture,3639,728,February,2025,1,Thursday
+ORD1045,2025-02-14,Vikram Singh,Office Supplies,3712,742,February,2025,1,Friday
+ORD1046,2025-02-15,Neha Verma,Clothing,3785,757,February,2025,1,Saturday
+ORD1047,2025-02-16,Kiran Rao,Grocery,3858,772,February,2025,1,Sunday
+ORD1048,2025-02-17,Ayesha Khan,Sports,3931,786,February,2025,1,Monday
+ORD1049,2025-02-18,Rohan Gupta,Books,4004,801,February,2025,1,Tuesday
+ORD1050,2025-02-19,Meera Iyer,Electronics,4077,815,February,2025,1,Wednesday
+ORD1051,2025-02-20,Rahul Sharma,Furniture,4150,830,February,2025,1,Thursday
+ORD1052,2025-02-21,Priya Reddy,Office Supplies,4223,845,February,2025,1,Friday
+ORD1053,2025-02-22,Arjun Kumar,Clothing,4296,859,February,2025,1,Saturday
+ORD1054,2025-02-23,Sneha Patel,Grocery,4369,874,February,2025,1,Sunday
+ORD1055,2025-02-24,Vikram Singh,Sports,4442,888,February,2025,1,Monday
+ORD1056,2025-02-25,Neha Verma,Books,4515,903,February,2025,1,Tuesday
+ORD1057,2025-02-26,Kiran Rao,Electronics,4588,918,February,2025,1,Wednesday
+ORD1058,2025-02-27,Ayesha Khan,Furniture,4661,932,February,2025,1,Thursday
+ORD1059,2025-02-28,Rohan Gupta,Office Supplies,4734,947,February,2025,1,Friday
+ORD1060,2025-03-01,Meera Iyer,Clothing,4807,961,March,2025,1,Saturday
+ORD1061,2025-03-02,Rahul Sharma,Grocery,4880,976,March,2025,1,Sunday
+ORD1062,2025-03-03,Priya Reddy,Sports,4953,991,March,2025,1,Monday
+ORD1063,2025-03-04,Arjun Kumar,Books,5026,1005,March,2025,1,Tuesday
+ORD1064,2025-03-05,Sneha Patel,Electronics,5099,1020,March,2025,1,Wednesday
+ORD1065,2025-03-06,Vikram Singh,Furniture,5172,1034,March,2025,1,Thursday
+ORD1066,2025-03-07,Neha Verma,Office Supplies,5245,1049,March,2025,1,Friday
+ORD1067,2025-03-08,Kiran Rao,Clothing,5318,1064,March,2025,1,Saturday
+ORD1068,2025-03-09,Ayesha Khan,Grocery,5391,1078,March,2025,1,Sunday
+ORD1069,2025-03-10,Rohan Gupta,Sports,5464,1093,March,2025,1,Monday
+ORD1070,2025-03-11,Meera Iyer,Books,5537,1107,March,2025,1,Tuesday
+ORD1071,2025-03-12,Rahul Sharma,Electronics,5610,1122,March,2025,1,Wednesday
+ORD1072,2025-03-13,Priya Reddy,Furniture,5683,1137,March,2025,1,Thursday
+ORD1073,2025-03-14,Arjun Kumar,Office Supplies,5756,1151,March,2025,1,Friday
+ORD1074,2025-03-15,Sneha Patel,Clothing,5829,1166,March,2025,1,Saturday
+ORD1075,2025-03-16,Vikram Singh,Grocery,5902,1180,March,2025,1,Sunday
+ORD1076,2025-03-17,Neha Verma,Sports,5975,1195,March,2025,1,Monday
+ORD1077,2025-03-18,Kiran Rao,Books,6048,1210,March,2025,1,Tuesday
+ORD1078,2025-03-19,Ayesha Khan,Electronics,6121,1224,March,2025,1,Wednesday
+ORD1079,2025-03-20,Rohan Gupta,Furniture,6194,1239,March,2025,1,Thursday
+ORD1080,2025-03-21,Meera Iyer,Office Supplies,6267,1253,March,2025,1,Friday
+ORD1081,2025-03-22,Rahul Sharma,Clothing,540,108,March,2025,1,Saturday
+ORD1082,2025-03-23,Priya Reddy,Grocery,613,123,March,2025,1,Sunday
+ORD1083,2025-03-24,Arjun Kumar,Sports,686,137,March,2025,1,Monday
+ORD1084,2025-03-25,Sneha Patel,Books,759,152,March,2025,1,Tuesday
+ORD1085,2025-03-26,Vikram Singh,Electronics,832,166,March,2025,1,Wednesday
+ORD1086,2025-03-27,Neha Verma,Furniture,905,181,March,2025,1,Thursday
+ORD1087,2025-03-28,Kiran Rao,Office Supplies,978,196,March,2025,1,Friday
+ORD1088,2025-03-29,Ayesha Khan,Clothing,1051,210,March,2025,1,Saturday
+ORD1089,2025-03-30,Rohan Gupta,Grocery,1124,225,March,2025,1,Sunday
+ORD1090,2025-03-31,Meera Iyer,Sports,1197,239,March,2025,1,Monday
+ORD1091,2025-04-01,Rahul Sharma,Books,1270,254,April,2025,2,Tuesday
+ORD1092,2025-04-02,Priya Reddy,Electronics,1343,269,April,2025,2,Wednesday
+ORD1093,2025-04-03,Arjun Kumar,Furniture,1416,283,April,2025,2,Thursday
+ORD1094,2025-04-04,Sneha Patel,Office Supplies,1489,298,April,2025,2,Friday
+ORD1095,2025-04-05,Vikram Singh,Clothing,1562,312,April,2025,2,Saturday
+ORD1096,2025-04-06,Neha Verma,Grocery,1635,327,April,2025,2,Sunday
+ORD1097,2025-04-07,Kiran Rao,Sports,1708,342,April,2025,2,Monday
+ORD1098,2025-04-08,Ayesha Khan,Books,1781,356,April,2025,2,Tuesday
+ORD1099,2025-04-09,Rohan Gupta,Electronics,1854,371,April,2025,2,Wednesday
+ORD1100,2025-04-10,Meera Iyer,Furniture,1927,385,April,2025,2,Thursday
